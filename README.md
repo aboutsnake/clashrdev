@@ -1,5 +1,10 @@
 # clashrdev
 
+
+#### NOTE: 
+* Tested and found out obfsparam and protocolparam only works under multiuser port with cfw 
+I do not own any of the scripts or code for either clash or clashr, i only apply commit and compile, so use at your own convenience 
+
 #### Supported SS/SSR Encrypting 
 * aes-128-cfb
 * aes-192-cfb

@@ -1,9 +1,5 @@
 # clashrdev
 
-
-#### NOTE: 
-I do not own any of the scripts or code for either clash or clashr, i only apply commit and compile, so use at your own convenience 
-
 #### Supported SS/SSR Encrypting 
 * aes-128-cfb
 * aes-192-cfb
@@ -36,6 +32,7 @@ I do not own any of the scripts or code for either clash or clashr, i only apply
 * tls1.2_ticket_auth
 
 #### Supported SSR Protocol
-
+* origin
+* auth_sha1_v4
 * auth_aes128_md5
 * auth_aes128_sha1
